@@ -22,14 +22,14 @@ Summary
 <!--ts-->
    * [About](#About)
    * [Requirements](#requirements)
-   * [How-to use it](#how_to)
-   * [The scripts](#the_scripts)
-      * [Dragon curve](#dragon_curve)
-      * [Hilbert curve](#hilbert_curve)
-      * [Hitomezashi stitch patterns](#hitomezashi_stitch_patterns)
-      * [Racaman sequence](#racaman_sequence)
-      * [Tesla vortex](#tesla_vortex)
-      * [Turtle plots](#turtle_plots)
+   * [How-to use it](#how-t-use-it)
+   * [The scripts](#the-scripts)
+      * [Dragon curve](#dragon-curve)
+      * [Hilbert curve](#hilbert-curve)
+      * [Hitomezashi stitch patterns](#hitomezashi-stitch-patterns)
+      * [Racaman sequence](#racaman-sequence)
+      * [Tesla vortex](#tesla-vortex)
+      * [Turtle plots](#turtle-plots)
    * [Author](#author)
 
 <!--te-->
