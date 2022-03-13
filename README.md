@@ -42,7 +42,7 @@ Summary
 
 ## How-to use it
 
-## The scripts
+## The scripts (#script_list)
 
 ### Dragon curve
 
