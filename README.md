@@ -22,7 +22,7 @@ Summary
 <!--ts-->
    * [About](#About)
    * [Requirements](#requirements)
-   * [How-to use it](#how-t-use-it)
+   * [How-to use it](#how-to-use-it)
    * [The scripts](#the-scripts)
       * [Dragon curve](#dragon-curve)
       * [Hilbert curve](#hilbert-curve)
