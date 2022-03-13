@@ -23,7 +23,7 @@ Summary
    * [About](#About)
    * [Requirements](#requirements)
    * [How-to use it](#how_to)
-   * [The scripts](#script_list)
+   * [The scripts](#The_scripts)
       * [Dragon curve](#dragon_curve)
       * [Hilbert curve](#hilbert_curve)
       * [Hitomezashi stitch patterns](#hitomezashi_stitch_patterns)
@@ -42,7 +42,7 @@ Summary
 
 ## How-to use it
 
-## The scripts (#script_list)
+## The scripts
 
 ### Dragon curve
 
